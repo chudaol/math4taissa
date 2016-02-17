@@ -5,7 +5,7 @@
   "pluginsConfig": {
     "addcssjs": {
       "css": ["custom/css/style.css"],
-      "js": ["custom/js/script.js", "vendor/js/jquery/jquery.js"]
+      "js": ["vendor/js/jquery/jquery.js", "custom/js/script.js"]
     }
   }
 }
