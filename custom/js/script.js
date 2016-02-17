@@ -10,9 +10,9 @@
     $(".show-answers").click(function (ev) {
         var $target, toHide;
         
-        toHide = text === hideText;
         $target = $(ev.currentTarget);
         text = $target.text();
+        toHide = text === hideText;
         $("div.answer").toggleClass("hidden", toHide);
         $target.text(toHide ? showText : hideText);
     });
