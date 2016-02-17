@@ -1,0 +1,7 @@
+.gray {
+    color: gray;
+}
+textarea.answer {
+    width: 60%;
+    height: 200px;
+}

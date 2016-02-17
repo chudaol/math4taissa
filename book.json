@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "addcssjs"
+  ],
+  "pluginsConfig": {
+    "addcssjs": {
+      "css": ["custom/css/style.css"],
+      "js": ["custom/js/script.js", "vendor/js/jquery/jquery.js"]
+    }
+  }
+}
