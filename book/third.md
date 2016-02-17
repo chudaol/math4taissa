@@ -1,6 +1,6 @@
-###6. If your purpose was to have 10 in the power of 3 of two euro coins, how many coins would you need more to obtain that amount?
+###6. You remember from the previous section that you would need more **130** two-euro coins to obtain **2000** euros. Someone gave to you the glass of 150ml full of 2-euro coins (remember, the shape doesn't matter for us). Do you think this amount is enough for you to obtain what you want?
 
-<small><span class="gray">Hint</span>: First think about how many is 2 euro coins multiplied by 10 in power of 3, than subtract. Do not forget that we want to know the number of 2-euro coins and not just the amount of needed money.</small>
+<small><span class="gray">Hint</span>: Remember from the previous sections what is the volume of one 2-euro coin. Make a necessary division to understand how many coins are there in the glass. Do not forget to round to the integer number.</small>
 
 
 ---
@@ -26,7 +26,7 @@
 ---
 
 <div class="answer hidden">
-    Answer: 130 2 euro coins
+    Answer: Yes, this amount is exactly what we need (150/1.15 ~130)
 </div>
 
 
