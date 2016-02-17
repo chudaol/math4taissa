@@ -90,3 +90,5 @@
 <div class="answer hidden">
     Answer: 870 coins
 </div>
+
+<button class="show-answers">Show Answers!</button>
