@@ -5,3 +5,8 @@ textarea.answer {
     width: 60%;
     height: 200px;
 }
+div.question-answer {
+    border: 1px solid gray;
+    height: 100px;
+    width: 80%;
+}

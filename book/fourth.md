@@ -1,4 +1,4 @@
-####9. Now you have so many clothes, you definitely need to put it somewhere! Your friend which works on metal cutting factory says that he can bend a metallic plate in such a way that it forms a cylindric tube so you can put it in your room to hang all your new clothes just like this:
+#####9. Now you have so many clothes, you definitely need to put it somewhere! Your friend which works on metal cutting factory says that he can bend a metallic plate in such a way that it forms a cylindric tube so you can put it in your room to hang all your new clothes just like this:
 
 ![](room.png)
 
@@ -8,24 +8,9 @@ Your room width is 2m, you've made the holes in the walls of 5cm in diameter. Wh
 
 ---
 
-##### Your Answer
+** Your Answer **
 
->
-
->
-
->
-
->
-
->
-
->
-
->
-
->
-
+<textarea style="border:none;" rows="10" cols="100"></textarea>
 ---
 
 <div class="answer hidden">
