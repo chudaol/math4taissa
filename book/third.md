@@ -1,4 +1,7 @@
-#####7. Now let's get back to your 2L bottle of 2-euros coins which gives us 1740 eurosyou have your 2000 euros and decide to go shopping! First of all you go to Saturn at Alexanderplatz, and what do you see? Your favourite MacBook Air with 35% of discount! Now it costs **just** 1365 euros. You decide to buy it. If there was no discount, would you still be able to buy it with your money? Why?
+#####7. Now let's get back to your 2L bottle of 2-euros coins which gives us 1740 euros you have your 2000 euros and 
+decide to go shopping! First of all you go to Saturn at Alexanderplatz, and what do you see? Your favourite MacBook Air with 35% of discount! Now it costs **just** 1365 euros. You decide to buy it. If there was no discount, would you still be able to buy it with your money? Why?
+
+![](air.png)
 
 <small><span class="gray">Hint</span>: Calculate the amount without discount and compare it with 2000.</small>
 
