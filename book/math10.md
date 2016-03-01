@@ -22,8 +22,11 @@ Give the answer in cm² and in m² and round it to two decimal points.
 ---
 
 <div class="answer hidden">
+    Answer: 
+    
     A = 2πrh
-    Answer: (2 * Math.PI * Math.sqrt(38013.27/(2/3*150)/Math.PI) * (2/3*150)) * 5 = 6911.5 * 5 = 34557.5cm² (3.46m²)
+    
+    (2 * Math.PI * Math.sqrt(38013.27/(2/3*150)/Math.PI) * (2/3*150)) * 5 = 6911.5 * 5 = 34557.5cm² (3.46m²)
 </div>
 
 <button class="show-answers">Show Answers!</button>

@@ -44,4 +44,18 @@ Why does this happen?
 <textarea style="border:none;" rows="5" cols="100"></textarea>
 ---
 
+#####11.3 You're in pizzaria choosing pizzas. There are small pizzas of 20cm in diameter, and their price is 5 euros each. There are also big pizzas of 40cm in diameter and it costs 10 euros.
+Which one is more wise choice - buying two small pizzas or one big pizza? Or is it the same?
+
+<small><span class="gray">Hint</span>: Think about pizza's areas!</small>
+
+** Your Answer **
+
+<textarea style="border:none;" rows="5" cols="100"></textarea>
+---
+
+<div class="answer hidden">
+    Answer: the price of one big pizza is the same as of two small pizzas, while the area of big pizza is twice as big as the area of two small pizzas!
+</div>
+
 <button class="show-answers">Show Answers!</button>
