@@ -10,3 +10,6 @@ div.question-answer {
     height: 100px;
     width: 80%;
 }
+small {
+    font-size: 80%!important;
+}
