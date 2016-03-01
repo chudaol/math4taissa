@@ -7,7 +7,7 @@
 
 ** Your Answer **
 
-<textarea style="border:none;" rows="5" cols="100"></textarea>
+<textarea style="border:none;" rows="5" cols="50"></textarea>
 ---
 
 {% exercise %}
@@ -29,7 +29,7 @@ assert(x == Math.PI * Math.pow(0.3, 2));
 
 ** Your Answer **
 
-<textarea style="border:none;" rows="5" cols="100"></textarea>
+<textarea style="border:none;" rows="5" cols="50"></textarea>
 ---
 
 <div class="answer hidden">
@@ -41,7 +41,7 @@ Why does this happen?
 
 ** Your Answer **
 
-<textarea style="border:none;" rows="5" cols="100"></textarea>
+<textarea style="border:none;" rows="5" cols="50"></textarea>
 ---
 
 #####11.3 You're in pizzaria choosing pizzas. There are small pizzas of 20cm in diameter, and their price is 5 euros each. There are also big pizzas of 40cm in diameter and it costs 10 euros.
@@ -51,7 +51,7 @@ Which one is more wise choice - buying two small pizzas or one big pizza? Or is 
 
 ** Your Answer **
 
-<textarea style="border:none;" rows="5" cols="100"></textarea>
+<textarea style="border:none;" rows="5" cols="50"></textarea>
 ---
 
 <div class="answer hidden">

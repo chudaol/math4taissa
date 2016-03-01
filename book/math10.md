@@ -18,7 +18,7 @@ Give the answer in cm² and in m² and round it to two decimal points.
 
 ** Your Answer **
 
-<textarea style="border:none;" rows="10" cols="100"></textarea>
+<textarea style="border:none;" rows="10" cols="50"></textarea>
 ---
 
 <div class="answer hidden">

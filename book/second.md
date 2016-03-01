@@ -6,7 +6,7 @@
 
 ** Your Answer **
 
-<textarea style="border:none;" rows="10" cols="100"></textarea>
+<textarea style="border:none;" rows="10" cols="50"></textarea>
 ---
 
 <div class="answer hidden">
@@ -21,7 +21,7 @@
 
 ** Your Answer **
 
-<textarea style="border:none;" rows="10" cols="100"></textarea>
+<textarea style="border:none;" rows="10" cols="50"></textarea>
 ---
 
 <div class="answer hidden">
@@ -36,7 +36,7 @@
 
 ** Your Answer **
 
-<textarea style="border:none;" rows="10" cols="100"></textarea>
+<textarea style="border:none;" rows="10" cols="50"></textarea>
 ---
 
 <div class="answer hidden">
