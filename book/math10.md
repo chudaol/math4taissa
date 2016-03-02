@@ -3,8 +3,9 @@ Just like this:
 
 ![](dress.png)
 
-You know that 2/3 of your body is water. Let's imagine that in case of Taissa all this water is concentrated in the cylindrical part of body.
-Once she tried to realize the capacity of her body and drank exactly 38.01327L of water! 
+You know that 2/3 of your body is water. 
+Let's imagine that in case of Taissa her cylindrical part of body makes exactly 2/3 of the whole body and all this water is concentrated there.
+Once she tried to estimate the capacity of her cylindrical body and drank exactly 38.01327L of water! 
 Given that Taissa's height is 1m50cm please calculate the total surface area of 5 new Taissa's dresses!
 Give the answer in cm² and in m² and round it to two decimal points.
 
