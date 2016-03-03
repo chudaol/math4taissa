@@ -12,6 +12,7 @@ Naila said she would like to eat the 14% of the rest of pizza.
 Hanna said that she would like to eat the half of what Naila and Taissa would eat together.
 Emma, Alva and Lili said they would divide the rest of the pizza evenly among three of them.
 
-TBC
+Until I write down all the ideas about exercises regarding this division, please write down some exercises by yourself!
+Your ideas will be more than welcome :)
 
 
