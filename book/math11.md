@@ -9,15 +9,14 @@
 
 <textarea style="border:none;" rows="5" cols="50"></textarea>
 ---
-
 {% exercise %}
 Please write a javascript expression to calculate the pizza's area.
 {% initial %}
-var x =
+  var x =
 {% solution %}
-var x = Math.PI * Math.pow(0.3, 2);
+  var x = Math.PI * Math.pow(0.3, 2);
 {% validation %}
-assert(x == Math.PI * Math.pow(0.3, 2));
+  assert(x == Math.PI * Math.pow(0.3, 2));
 {% context %}
 {% endexercise %}
 
