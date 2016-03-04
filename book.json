@@ -1,6 +1,7 @@
 {
   "plugins": [
-    "addcssjs", "exercises"
+    "exercises", 
+    "addcssjs"
   ],
   "pluginsConfig": {
     "addcssjs": {
