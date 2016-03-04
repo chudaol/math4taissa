@@ -9,4 +9,5 @@
 * [Primark](book/math8.md)
 * [Where to Put My Clothes?](book/math9.md)
 * [Dresses, body, Water and Cylinders](book/math10.md)
-* [Pizza, Oven, Microwave and Javascript](book/math11.md)
+* [Pizza, Oven and Javascript](book/math11.md)
+* [Let's Eat Pizza!](book/math12.md)
