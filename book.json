@@ -1,6 +1,6 @@
 {
   "plugins": [
-    "exercises", 
+    "exercises-tmp-fixed-6", 
     "addcssjs"
   ],
   "pluginsConfig": {
