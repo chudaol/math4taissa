@@ -1,5 +1,12 @@
 {
-  "engines": {
-      "gitbook": ">=3.0.0-pre.0"
+  "plugins": [
+    "exercises-tmp-fixed-6", 
+    "addcssjs"
+  ],
+  "pluginsConfig": {
+    "addcssjs": {
+      "css": ["custom/css/style.css"],
+      "js": ["vendor/js/jquery/jquery.js", "custom/js/script.js"]
+    }
   }
 }
