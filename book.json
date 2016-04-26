@@ -8,5 +8,8 @@
       "css": ["custom/css/style.css"],
       "js": ["vendor/js/jquery/jquery.js", "custom/js/script.js"]
     }
-  }
+  },
+  "engines": {
+     "gitbook": ">=3.0.0-pre.0"
+   }
 }
